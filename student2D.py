@@ -6,4 +6,5 @@ for count in range(1,3):
     course = input("enter course: ")
     student.append([id,name,course])
 
+
 print(student)

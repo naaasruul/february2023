@@ -1,0 +1,10 @@
+# list1=[1,2,3,4,5]
+# print(list1[ : -1])
+
+
+number = [0, 2, 4, 6, 7, 5, 3]
+result = 0
+for n in range (0,7,1):
+    result += number[n]
+        
+print(result)
